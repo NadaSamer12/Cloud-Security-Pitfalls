@@ -1,4 +1,6 @@
 # ☁️ Cloud Security Pitfalls
+**Author:** [Nada Samer](https://www.linkedin.com/in/nada-sofan-49b79b2b7)
+**Focus:** Cloud Security, Cloud Monitoring, SIEM Integration, and SOC Operations.
 
 A practical cybersecurity project based on the **Cloud Security Pitfalls** room on TryHackMe.
 
@@ -96,8 +98,3 @@ Completed the **Cloud Security Pitfalls** room on TryHackMe.
 ## 🧠 Key Takeaways
 
 This project provided practical exposure to cloud security concepts and the challenges SOC teams face when monitoring cloud environments. It reinforced the importance of cloud-specific security controls, centralized logging, workload monitoring, and continuous detection of suspicious activity.
-
----
-
-**Author:** Farah Samer Soufan
-**GitHub:** [FarahSamer-eng](https://github.com/FarahSamer-eng)
